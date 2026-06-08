@@ -6,15 +6,6 @@ This project explores automated generation of aortic geometries from medical ima
 
 The program processes vascular imaging data, applies 3D image segmentation techniques, and converts predicted vascular structures into STL surface geometries suitable for computational modeling applications.
 
-## Features
-
-* Loads vascular imaging datasets stored in VTI format
-* Processes imaging data using VTK and NumPy
-* Trains a 3D U-Net segmentation model using PyTorch
-* Predicts vascular anatomy from medical imaging data
-* Generates surface meshes using the Marching Cubes algorithm
-* Exports STL geometry files for visualization and modeling
-
 ## Workflow
 
 1. Load VTI imaging datasets
