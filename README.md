@@ -4,7 +4,7 @@
 
 This project explores automated generation of aortic geometries from medical imaging datasets obtained from the Vascular Model Repository (VMR). The goal was to learn medical image processing, deep learning-based segmentation, and geometry generation.
 
-The program processes vascular imaging data, applies 3D image segmentation techniques, and converts predicted vascular structures into STL surface geometries suitable for computational modeling applications.
+The program processes vascular imaging data, applies 3D image segmentation techniques, and converts predicted vascular structures into STL surface geometries for computational modeling applications.
 
 ## Workflow
 
